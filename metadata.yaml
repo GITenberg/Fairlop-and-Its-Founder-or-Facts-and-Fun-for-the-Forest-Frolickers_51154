@@ -1,0 +1,25 @@
+_repo: Fairlop-and-Its-Founder-or-Facts-and-Fun-for-the-Forest-Frolickers_51154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Famed First Friday Fairgoer
+    alias: Fairgoer, Famed First Friday
+    gutenberg_agent_id: '46266'
+    url: http://www.gutenberg.org/2009/agents/46266
+description: ''
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51154'
+  lccn: '15019655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairlop Fair'
+- !lcsh 'Day, Daniel, 1683-1767'
+- !lcc 'CT'
+- GITenberg
+title: Fairlop and Its Founder; or, Facts and Fun for the Forest Frolickers.
+url: http://www.gutenberg.org/ebooks/51154
