@@ -1,5 +1,8 @@
 _repo: Fairlop-and-Its-Founder-or-Facts-and-Fun-for-the-Forest-Frolickers_51154
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Famed First Friday Fairgoer
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46266'
     url: http://www.gutenberg.org/2009/agents/46266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51154#Fairlop-and-Its-Founder-or-Facts-and-Fun-for-the-Forest-Frolickers
 gutenberg_issued: '2016-02-08'
 gutenberg_type: Text
 identifiers:
